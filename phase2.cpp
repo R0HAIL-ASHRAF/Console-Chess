@@ -1,3 +1,10 @@
+/* Developer: Muhammad Rohail Ashraf(PSA)
+   Highest Degree: BS Computer Science
+   Others(courses): Master of Essential C++ Progarmming (Udemy) 
+   Form for Others(courses): https://udemy-certificate.s3.amazonaws.com/pdf/UC-60e524a4-06ab-435b-a132-98cf6309e768.pdf
+   linkedIn: https://www.linkedin.com/in/rohail-ashraf-1aa720280/
+   
+*/
 #include<iostream>
 #include<fstream>
 #include<Windows.h>
@@ -1519,8 +1526,6 @@ void print()
 	cout << "Quit Game!";
 	gotoRowCol(29, 102);
 	cout << "Developer : ROHAIL ASHRAF";
-	gotoRowCol(30, 102);
-	cout << "Roll Number: BSCS24090";
 	gotoRowCol(31, 102);
 	cout << "SEMESTER PROJECT";
 	gotoRowCol(32, 102);

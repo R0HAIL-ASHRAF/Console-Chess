@@ -1,3 +1,5 @@
+                                                      ---Breif Decription---
+                                                          ---of code---
 The C++ chess game implemented in the provided code enables two players to engage in a console-based chess match. It involves a significant number of features and functions that ensure the game adheres to the standard rules of chess. The game is structured to be interactive, allowing users to input their moves either via the keyboard or mouse, while also providing various checks for move validity, piece-specific movement rules, and handling complex game mechanics like castling, en passant, and pawn promotion.
 
 

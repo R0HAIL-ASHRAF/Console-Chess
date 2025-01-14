@@ -6,13 +6,3 @@ ________
 ________
 PPPPPPPP
 RNBQKBNR
-
-
-rnbqkbnr
-pppppppp
-________
-________
-________
-________
-PPPPPPPP
-RNBQKBNR

@@ -1,7 +1,10 @@
-/* Developer: Muhammad Rohail Ashraf(PSA)
+/*
+   Developer: Muhammad Rohail Ashraf(PSA)
    Highest Degree: BS Computer Science
-   Others(courses): Master of Essential C++ Progarmming (Udemy) 
-   Form for Others(courses): https://udemy-certificate.s3.amazonaws.com/pdf/UC-60e524a4-06ab-435b-a132-98cf6309e768.pdf
+   Additional course: Master of Essential C++ Progarmming (Udemy) 
+   Form for Additional course: https://udemy-certificate.s3.amazonaws.com/pdf/UC-60e524a4-06ab-435b-a132-98cf6309e768.pdf
+-------------------------------------------------------------------------------------------------------------------------
+   
    linkedIn: https://www.linkedin.com/in/rohail-ashraf-1aa720280/
    
 */

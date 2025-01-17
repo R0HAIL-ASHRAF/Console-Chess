@@ -1,11 +1,19 @@
 /*
    Developer: Muhammad Rohail Ashraf(PSA)
    Highest Degree: BS Computer Science
-   Additional course: Master of Essential C++ Progarmming (Udemy) 
-   Form for Additional course: https://udemy-certificate.s3.amazonaws.com/pdf/UC-60e524a4-06ab-435b-a132-98cf6309e768.pdf
+   Additional Aid: 
+   	1. Mastery of Essential C++ Programming (Udemy)
+           https://udemy-certificate.s3.amazonaws.com/pdf/UC-60e524a4-06ab-435b-a132-98cf6309e768.pdf
+	2. C++ Programming: Beginners to Advanced for Developers(Udemy)
+ 	   https://udemy-certificate.s3.amazonaws.com/pdf/UC-354e45f3-ef3a-4fed-9ad5-04eea8384c29.pdf
+     	3. C++ training Crash Course For C++ Beginners(Udemy)
+      	   https://udemy-certificate.s3.amazonaws.com/pdf/UC-91247734-71a2-4519-bd4f-ac5dd1b43d7f.pdf
+	  
 -------------------------------------------------------------------------------------------------------------------------
-   
-   linkedIn: https://www.linkedin.com/in/rohail-ashraf-1aa720280/
+   Socials:
+   https://www.linkedin.com/in/rohail-ashraf-1aa720280/(LinkedIn)
+   https://www.udemy.com/user/rohail-ashraf-2/(Udemy)
+
    
 */
 #include<iostream>
